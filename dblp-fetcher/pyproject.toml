@@ -14,7 +14,7 @@ google-api-python-client = "^2.127.0"
 google-auth-httplib2 = "^0.2.0"
 google-auth-oauthlib = "^1.2.0"
 requests = "^2.31.0"
-validators = "^0.24.0"
+validators = "^0.33.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^8.1"
